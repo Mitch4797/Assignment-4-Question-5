@@ -29,7 +29,7 @@ public class IndividualHolder  extends AccountHolder implements util{
     }
 
     @Override
-    public String convertNameUpperCase(String Name) {
+    public String convertNameUpperCase(String Name){
         return name.toUpperCase();
     }
     
